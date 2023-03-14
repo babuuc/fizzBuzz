@@ -1,2 +1,3 @@
-# pythonGlession
+# fizzBuzz
 dla Mr Philipa
+w pytongu
