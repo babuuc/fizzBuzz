@@ -5,6 +5,8 @@ ileMod35 = 0
 for i in range(1, 101):
     if i % 3 == 0 and i % 5 == 0:
         ileMod35 += 1
+        ileMod3 += 1
+        ileMod5 += 1
         print("FizzBuzz")
     elif i % 3 == 0:
         ileMod3 += 1
